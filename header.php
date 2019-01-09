@@ -26,46 +26,11 @@
           <div class="realty-logo">Realty</div></a>
         </div>
 
-        <div class="col-lg-9 col-md-9 col-sm-6">
-
-          <div id="navigation" role="navigation">
-          <div class="close_sidr">
-            <div id="close-menu-button"><span class="fas fa-window-close"></span></div>
-          </div>
-          <div class="logo__side__nav">
-            <a href="index.html">Her<div class="i-logo">i</div>zon
-            <div class="realty-logo">Realty</div></a>
-            <br>
-            <hr class="hr__side__nav">
-          </div>
-
-            <nav class="nav">
-                <ul class="nav__bar">
-                    <li class="nav__item"><a href="/properties/">Properties</a></li>
-                    <li class="nav__item"><a href="/buy-and-sell/">Buy/Sell</a></li>
-                    <li class="nav__item"><a href="/community/">Community</a></li>
-                    <li class="nav__item"><a href="/agents/">Agents</a></li>
-                    <li class="nav__item"><a href="/blog/ ">Blogs</a></li>
-                    <li class="nav__item"><a href="/resources/">Resources</a></li>
-                </ul>
-            </nav>
-
-              <div class="nav__bar__footer">
-                <p>
-                  <a href="https://www.facebook.com/herizonrealty/"><span class="fab fa-facebook"></span></a>
-                  <a href="mailto:fong.her@herizonone.com"><span class="fas fa-envelope"></span></a>
-                  <a href="tel:+6517557165"><span class="fas fa-mobile-alt"></span></a>
-                  <a href="/wp-admin/"><span class="fas fa-sign-in-alt"></span></a>
-              </p>
-            </div>
-
-          </div>
-          </div>
-
         </div>
       </div>
 
-    </div> <!-- row -->
+    </div>
+    <!-- row -->
 
     <div class="row">
       <div id="show_main_nav" class="responsive__nav__bar col-sm-12 col-xs-1 fixed-top" role="navigation_logo">
@@ -78,7 +43,7 @@
       </div>
 
     </div>
-    </div>
+<!--    </div>-->
     <!-- Insert form and text here under nav -->
 </header>
 
