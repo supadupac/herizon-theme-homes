@@ -9,8 +9,7 @@
     <!-- <hr> -->
     <?php //} ?>
 
-<!--<div class="hero_background">-->
-<!--</div>-->
+
 <!--    <div class="container-fluid welcome">-->
 <!--      <h1>Experience how great it is to sell or buy a home with us</h1>-->
 <!--    </div>-->

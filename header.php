@@ -32,20 +32,8 @@
     </div>
     <!-- row -->
 
-    <div class="row">
-      <div id="show_main_nav" class="responsive__nav__bar col-sm-12 col-xs-1 fixed-top" role="navigation_logo">
-        <a class="navbar__logo" href="index.html">Her<div class="i-logo">i</div>zon
-        <span class="realty-logo-resize">Realty</span></a>
-
-
-      <div id="mobile-header">
-        <a id="responsive-menu-button" href="#sidr-main"><i class="fas fa-bars"></i></a>
-      </div>
-
-    </div>
-<!--    </div>-->
     <!-- Insert form and text here under nav -->
 </header>
 
 <body>
-  <div id="nav_background"></div>
+<!--  <div id="nav_background"></div>-->
