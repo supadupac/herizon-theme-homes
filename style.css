@@ -1018,5 +1018,6 @@ chris@christophertoulee.
   }
 
 footer.page-footer {
-    padding-bottom: 200px;
+    position: auto;
+    bottom: 0;
 }
