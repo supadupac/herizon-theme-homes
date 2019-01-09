@@ -928,6 +928,10 @@ chris@christophertoulee.
    background: linear-gradient(#585858, #272727);
    color: white;
    font-family: "Open Sans";
+     position: -webkit-sticky;
+     position: sticky;
+     bottom: 0;
+
  }
 
  .footer__logo {
@@ -1016,8 +1020,3 @@ chris@christophertoulee.
    font-size: 3.5em;
    margin-top: 30px;
   }
-
-footer.page-footer {
-    position: auto;
-    bottom: 0;
-}
