@@ -93,6 +93,10 @@
     Herizon Realty | Real Estate, Mortgage and Title experts in Minnesota.<br>
     By searching you agree to the end user license agreement.</p>
   </div>
+
+    <div class="container-fluid bottom-fix">
+        <br>
+    </div>
 </footer>
 
 <!--  <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>-->

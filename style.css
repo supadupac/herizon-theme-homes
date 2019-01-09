@@ -1000,6 +1000,13 @@ chris@christophertoulee.
    color: white;
  }
 
+ .bottom-fix {
+     background-color: red;
+     width: 100%;
+     position: absolute;
+     bottom: 0;
+ }
+
  /* PAGE CSS */
  .page_title {
    font-family: "Open Sans";
