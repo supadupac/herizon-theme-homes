@@ -11,6 +11,7 @@
         <br>
         <?php the_content(); ?>
       </div>
+      <br> <br> <br> <br> <br> <br>
 
 
   <?php }
