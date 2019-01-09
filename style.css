@@ -56,15 +56,6 @@ chris@christophertoulee.
 
  /* Body */
 
- .hero_background {
-   background-image: url("images/hero_img.jpg");
-   background-repeat: no-repeat;
-   height: 550px;
-   background-size: cover;
-   position: relative;
-   z-index: -1;
-   width: 100%;
- }
 
  /* Navigation */
  #nav_background {
