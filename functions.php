@@ -10,7 +10,7 @@
 //    wp_enqueue_script('main_javascript', get_theme_file_uri('/js/script.js'), array('jquery'), NULL, '0.1.0', true);
   }
 
-//  add_action('wp_enqueue_scripts', 'herizon_files');
+  add_action('wp_enqueue_scripts', 'herizon_files');
 
   // call JS files
 
