@@ -11,11 +11,6 @@ Owned and developed by Herizon Realty and Chris Lee
 chris@christophertoulee.
  */
 
-
- .testing {
-   border: 1px solid red;
- }
-
  /* Fonts */
 
  @import url('https://fonts.googleapis.com/css?family=Arvo|Lato|Open+Sans');
@@ -63,9 +58,9 @@ chris@christophertoulee.
    margin-top: 15px;
  }
 
- .nav_bg_page {
-   display: none;
- }
+ /*.nav_bg_page {*/
+   /*display: none;*/
+ /*}*/
 
  /*a:hover {*/
    /*text-decoration: none !important;*/
@@ -91,87 +86,87 @@ chris@christophertoulee.
    position: relative;
  }
 
- .navbar__logo {
-   font-family: Times;
-   font-size: 40px !important;
-   color: black !important;
-   position: relative;
-   top: -13px;
- }
+ /*.navbar__logo {*/
+   /*font-family: Times;*/
+   /*font-size: 40px !important;*/
+   /*color: black !important;*/
+   /*position: relative;*/
+   /*top: -13px;*/
+ /*}*/
 
- .nav__bar {
-   list-style-type: none;
-   margin-top: 30px;
-   margin-left: 100px;
-   padding: 0;
- }
+ /*.nav__bar {*/
+   /*list-style-type: none;*/
+   /*margin-top: 30px;*/
+   /*margin-left: 100px;*/
+   /*padding: 0;*/
+ /*}*/
 
- .nav__item > a:link {
-   color: #2B3187;
-   text-decoration: none;
-   font-family: 'Lato';
-   font-size: 20px;
-   margin-left: -60px;
-   padding-right: 95px;
- }
+ /*.nav__item > a:link {*/
+   /*color: #2B3187;*/
+   /*text-decoration: none;*/
+   /*font-family: 'Lato';*/
+   /*font-size: 20px;*/
+   /*margin-left: -60px;*/
+   /*padding-right: 95px;*/
+ /*}*/
 
- .nav__item > a:visited {
-   color: #2B3187;
-   text-decoration: none;
-   font-family: 'Lato';
-   font-size: 18px;
-   padding: 24px;
- }
+ /*.nav__item > a:visited {*/
+   /*color: #2B3187;*/
+   /*text-decoration: none;*/
+   /*font-family: 'Lato';*/
+   /*font-size: 18px;*/
+   /*padding: 24px;*/
+ /*}*/
 
- a:hover.navbar__logo {
-   color: black !important;
-   text-decoration: none;
-   font-family: 'Times';
-   font-size: 20px;
- }
+ /*a:hover.navbar__logo {*/
+   /*color: black !important;*/
+   /*text-decoration: none;*/
+   /*font-family: 'Times';*/
+   /*font-size: 20px;*/
+ /*}*/
 
- .nav__item {
-   display: inline;
- }
+ /*.nav__item {*/
+   /*display: inline;*/
+ /*}*/
 
- h3 strong {
-     font-family: "Open Sans";
-     color: #2B3187;
+ /*h3 strong {*/
+     /*font-family: "Open Sans";*/
+     /*color: #2B3187;*/
      /* margin-top: 40px; */
      /* text-align: center; */
-   }
+   /*}*/
 
  /* Responsive */
 
- #show_main_nav {
-   display: none;
- }
+ /*#show_main_nav {*/
+   /*display: none;*/
+ /*}*/
 
- #mobile-header {
-   display: none;
- }
+ /*#mobile-header {*/
+   /*display: none;*/
+ /*}*/
 
- .close_sidr {
-   display: none;
- }
+ /*.close_sidr {*/
+   /*display: none;*/
+ /*}*/
 
- .logo__side__nav {
-   display: none;
- }
+ /*.logo__side__nav {*/
+   /*display: none;*/
+ /*}*/
 
- .nav__bar__footer {
-   display: none;
- }
+ /*.nav__bar__footer {*/
+   /*display: none;*/
+ /*}*/
 
- .realty-logo-resize {
-   font-family: 'Kunstler Script';
-   font-size: 45px;
-   color: black;
-   display: inline;
-   /* top: 34px; */
-   margin-left: -10px;
-   /* position: relative; */
- }
+ /*.realty-logo-resize {*/
+   /*font-family: 'Kunstler Script';*/
+   /*font-size: 45px;*/
+   /*color: black;*/
+   /*display: inline;*/
+   /*!* top: 34px; *!*/
+   /*margin-left: -10px;*/
+   /*!* position: relative; *!*/
+ /*}*/
 
  /*@media only screen and (max-width: 991px){*/
    /*#hide_main_nav {*/
@@ -863,52 +858,52 @@ chris@christophertoulee.
    /*margin-top: 20px;*/
  /*}*/
 
- .agents h1 {
-   color: #2B3187;
-   font-family: "Open Sans";
-   font-size: 32px;
-   font-weight: 550;
-   margin-top: 15px;
- }
+ /*.agents h1 {*/
+   /*color: #2B3187;*/
+   /*font-family: "Open Sans";*/
+   /*font-size: 32px;*/
+   /*font-weight: 550;*/
+   /*margin-top: 15px;*/
+ /*}*/
 
- .agents img {
-   margin: 30px 0px;
-   border-radius: 2px;
- }
+ /*.agents img {*/
+   /*margin: 30px 0px;*/
+   /*border-radius: 2px;*/
+ /*}*/
 
- .agents .btn {
-   border-radius: 100px !important;
- }
+ /*.agents .btn {*/
+   /*border-radius: 100px !important;*/
+ /*}*/
 
- .agents a:hover  {
-   color: white !important;
- }
+ /*.agents a:hover  {*/
+   /*color: white !important;*/
+ /*}*/
 
- .contact-us-form h1 {
-   color: #2B3187;
-   font-family: "Open Sans";
-   font-size: 32px;
-   font-weight: 550;
- }
+ /*.contact-us-form h1 {*/
+   /*color: #2B3187;*/
+   /*font-family: "Open Sans";*/
+   /*font-size: 32px;*/
+   /*font-weight: 550;*/
+ /*}*/
 
- .contact-us-form p {
-   margin-top: -10px;
-   color: #717171;
-   font-size: 14px;
- }
+ /*.contact-us-form p {*/
+   /*margin-top: -10px;*/
+   /*color: #717171;*/
+   /*font-size: 14px;*/
+ /*}*/
 
- .contact-us-form {
-   margin: 20px 0px;
-   padding: 10px 0px;
-   /* background-color: #E9E9E9; */
-   border-radius: 5px;
-   color: black;
-   font-family: "Open Sans";
- }
+ /*.contact-us-form {*/
+   /*margin: 20px 0px;*/
+   /*padding: 10px 0px;*/
+   /*!* background-color: #E9E9E9; *!*/
+   /*border-radius: 5px;*/
+   /*color: black;*/
+   /*font-family: "Open Sans";*/
+ /*}*/
 
- .contact-us-form .btn {
-   float: right !important;
- }
+ /*.contact-us-form .btn {*/
+   /*float: right !important;*/
+ /*}*/
 
    /* Footer */
 
