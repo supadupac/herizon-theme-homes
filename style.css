@@ -906,10 +906,13 @@ chris@christophertoulee.
  /*}*/
 
 @media screen and (min-width: 768px) {
-    #ihf-main-container .modal-dialog {
+    .modal-dialog {
         left: auto !important;
     }
 }
+
+
+
    /* Footer */
 
  footer {
