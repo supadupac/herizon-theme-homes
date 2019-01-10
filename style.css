@@ -905,6 +905,10 @@ chris@christophertoulee.
    /*float: right !important;*/
  /*}*/
 
+#ihf-main-container .modal-dialog {
+    left: auto !important;
+}
+
    /* Footer */
 
  footer {
