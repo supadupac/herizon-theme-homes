@@ -9,7 +9,6 @@
         <a href="mailto:fong.her@herizonone.com"><i style="font-size: 14px;" class="fa fa-envelope" aria-hidden="true"></i> fong.her@herizonone.com</p></a>
       </div>
 
-<!--      <hr class="clearfix w-100 d-md-none pb-3">-->
 
       <div id="footer__links__connected-hide" class="col-md-2 mb-md-0 mb-3 footer__links">
         <!-- Links -->
