@@ -61,27 +61,27 @@
           <!-- Grid column -->
 
 
-          <div id="footer__resources-show" class="col-md-6 footer__links footer_resources_media">
-            <!-- Links -->
-            <h5 class="footer__link__headers">Resources</h5>
-            <ul class="list-unstyled">
-              <li>
-                <a id="responsive-footer-menu-button" href="#sidr-main">Find Properties</a>
-              </li>
-              <li>
-                <a href="/resources/">Forms</a>
-              </li>
-              <li>
-                <a href="/privacy/">Privacy</a>
-              </li>
-              <li>
-                <a href="/wp-admin/">Log In</a>
-              </li>
-              <li>
-                <a href="/email/">E-mail</a>
-              </li>
-            </ul>
-          </div>
+<!--          <div id="footer__resources-show" class="col-md-6 footer__links footer_resources_media">-->
+<!--            <!-- Links -->-->
+<!--            <h5 class="footer__link__headers">Resources</h5>-->
+<!--            <ul class="list-unstyled">-->
+<!--              <li>-->
+<!--                <a id="responsive-footer-menu-button" href="#sidr-main">Find Properties</a>-->
+<!--              </li>-->
+<!--              <li>-->
+<!--                <a href="/resources/">Forms</a>-->
+<!--              </li>-->
+<!--              <li>-->
+<!--                <a href="/privacy/">Privacy</a>-->
+<!--              </li>-->
+<!--              <li>-->
+<!--                <a href="/wp-admin/">Log In</a>-->
+<!--              </li>-->
+<!--              <li>-->
+<!--                <a href="/email/">E-mail</a>-->
+<!--              </li>-->
+<!--            </ul>-->
+<!--          </div>-->
 
     </div> <!-- end of row -->
   </div>
