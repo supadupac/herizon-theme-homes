@@ -906,7 +906,7 @@ chris@christophertoulee.
  /*}*/
 
 
-.modal-dialog {
+div .modal-dialog {
         left: 0 !important;
     }
 
