@@ -424,7 +424,7 @@ chris@christophertoulee.
  }
 
  .footer_resources_media {
-   text-align: right;
+   text-align: right !important;
  }
 
  .footer__stay__connected {
@@ -459,13 +459,6 @@ chris@christophertoulee.
      position: absolute;
  }
 
- /* PAGE CSS */
- /*.page_title {*/
-   /*font-family: "Open Sans";*/
-   /*color: #2B3187;*/
-   /*font-size: 3.5em;*/
-   /*margin-top: 30px;*/
-  /*}*/
 
 /*!
  * Generated using the Bootstrap Customizer (https://getbootstrap.com/docs/3.4/customize/)
