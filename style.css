@@ -906,8 +906,8 @@ chris@christophertoulee.
  /*}*/
 
 
-#ihf-main-container.modal-dialog {
-        left: auto !important;
+.modal-dialog {
+        left: 0 !important;
     }
 
 
