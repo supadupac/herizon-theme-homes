@@ -905,12 +905,10 @@ chris@christophertoulee.
    /*float: right !important;*/
  /*}*/
 
-@media screen and (min-width: 768px) {
+
     .modal-dialog {
         left: auto !important;
     }
-}
-
 
 
    /* Footer */
