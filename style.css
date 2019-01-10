@@ -907,93 +907,93 @@ chris@christophertoulee.
 
    /* Footer */
 
- footer {
-   background: #272727;
-   /* height: 300px; */
-   background: #272727;
-   background: linear-gradient(#585858, #272727);
-   color: white;
-   font-family: "Open Sans";
- }
+ /*footer {*/
+   /*background: #272727;*/
+   /*!* height: 300px; *!*/
+   /*background: #272727;*/
+   /*background: linear-gradient(#585858, #272727);*/
+   /*color: white;*/
+   /*font-family: "Open Sans";*/
+ /*}*/
 
- .footer__logo {
-   font-family: Times;
-   font-size: 40px !important;
-   color: white !important;
- }
+ /*.footer__logo {*/
+   /*font-family: Times;*/
+   /*font-size: 40px !important;*/
+   /*color: white !important;*/
+ /*}*/
 
- .footer__realty-logo {
-   font-family: 'Kunstler Script';
-   font-size: 45px;
-   color: white;
-   display: inline;
-   position: relative;
-   margin-left: -90px;
-   top: 35px;
- }
+ /*.footer__realty-logo {*/
+   /*font-family: 'Kunstler Script';*/
+   /*font-size: 45px;*/
+   /*color: white;*/
+   /*display: inline;*/
+   /*position: relative;*/
+   /*margin-left: -90px;*/
+   /*top: 35px;*/
+ /*}*/
 
- a:hover.footer__logo {
-   color: white !important;
-   text-decoration: none;
- }
+ /*a:hover.footer__logo {*/
+   /*color: white !important;*/
+   /*text-decoration: none;*/
+ /*}*/
 
- .footer__address {
-   font-size: .90em;
-   padding-top: 10px;
-   padding-left: 10px;
-   line-height: 2.0;
-   display: inline-block;
- }
+ /*.footer__address {*/
+   /*font-size: .90em;*/
+   /*padding-top: 10px;*/
+   /*padding-left: 10px;*/
+   /*line-height: 2.0;*/
+   /*display: inline-block;*/
+ /*}*/
 
 
- .footer__links {
-   padding-top: 40px;
-   margin-left: 0px;
- }
+ /*.footer__links {*/
+   /*padding-top: 40px;*/
+   /*margin-left: 0px;*/
+ /*}*/
 
- .footer__links a {
-   color: white;
- }
+ /*.footer__links a {*/
+   /*color: white;*/
+ /*}*/
 
- .footer__links a:hover {
-   color: #717171 !important;
- }
+ /*.footer__links a:hover {*/
+   /*color: #717171 !important;*/
+ /*}*/
 
- .footer__link__headers {
-   font-family: "Open Sans";
-   font-size: 18px;
-   font-weight: 550;
- }
+ /*.footer__link__headers {*/
+   /*font-family: "Open Sans";*/
+   /*font-size: 18px;*/
+   /*font-weight: 550;*/
+ /*}*/
 
- .footer_resources_media {
-   text-align: right;
- }
+ /*.footer_resources_media {*/
+   /*text-align: right;*/
+ /*}*/
 
- .footer__stay__connected {
-   padding-top: 40px;
-   margin-left: 0px;
- }
+ /*.footer__stay__connected {*/
+   /*padding-top: 40px;*/
+   /*margin-left: 0px;*/
+ /*}*/
 
- .footer__stay__connected a:hover {
-   color: #717171 !important;
- }
+ /*.footer__stay__connected a:hover {*/
+   /*color: #717171 !important;*/
+ /*}*/
 
- .footer__stay__connected a {
-   color: white;
- }
+ /*.footer__stay__connected a {*/
+   /*color: white;*/
+ /*}*/
 
- .footer__stay__connected i {
-   letter-spacing: 10px;
- }
+ /*.footer__stay__connected i {*/
+   /*letter-spacing: 10px;*/
+ /*}*/
 
- .footer__copyright {
-   font-size: 12px;
- }
+ /*.footer__copyright {*/
+   /*font-size: 12px;*/
+ /*}*/
 
- .footer__copyright a {
-   font-size: 12px;
-   color: white;
- }
+ /*.footer__copyright a {*/
+   /*font-size: 12px;*/
+   /*color: white;*/
+ /*}*/
 
  .bottom-fix {
      background-color: #272727;
@@ -1003,9 +1003,9 @@ chris@christophertoulee.
  }
 
  /* PAGE CSS */
- .page_title {
-   font-family: "Open Sans";
-   color: #2B3187;
-   font-size: 3.5em;
-   margin-top: 30px;
-  }
+ /*.page_title {*/
+   /*font-family: "Open Sans";*/
+   /*color: #2B3187;*/
+   /*font-size: 3.5em;*/
+   /*margin-top: 30px;*/
+  /*}*/
