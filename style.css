@@ -154,9 +154,9 @@ chris@christophertoulee.
    /*display: none;*/
  /*}*/
 
- /*.nav__bar__footer {*/
-   /*display: none;*/
- /*}*/
+ .nav__bar__footer {
+   display: none;
+ }
 
  /*.realty-logo-resize {*/
    /*font-family: 'Kunstler Script';*/
@@ -228,29 +228,29 @@ chris@christophertoulee.
    /*}*/
  /*}*/
 
- /*@media only screen and (max-width: 991px){*/
-   /*#footer__stay__connected-hide {*/
-     /*display: none;*/
-   /*}*/
- /*}*/
+ @media only screen and (max-width: 991px){
+   #footer__stay__connected-hide {
+     display: none;
+   }
+ }
 
- /*@media only screen and (max-width: 991px){*/
-   /*#footer__resources-hide {*/
-     /*display: none;*/
-   /*}*/
- /*}*/
+ @media only screen and (max-width: 991px){
+   #footer__resources-hide {
+     display: none;
+   }
+ }
 
- /*@media only screen and (max-width: 991px){*/
-   /*#footer__links__connected-hide {*/
-     /*display: none;*/
-   /*}*/
- /*}*/
+ @media only screen and (max-width: 991px){
+   #footer__links__connected-hide {
+     display: none;
+   }
+ }
 
- /*@media only screen and (min-width: 991px), (max-width: 767px){*/
-   /*#footer__resources-show {*/
-     /*display: none;*/
-   /*}*/
- /*}*/
+ @media only screen and (min-width: 991px), (max-width: 767px){
+   #footer__resources-show {
+     display: none;
+   }
+ }
 
  /*@media only screen (min-width: 575px), (max-width: 991px){*/
    /*#nav_background {*/
@@ -273,9 +273,9 @@ chris@christophertoulee.
    /*height: 55px;*/
  /*}*/
 
- /*#nav__bar__footer {*/
-   /*display: none;*/
- /*}*/
+ #nav__bar__footer {
+   display: none;
+ }
 
  /* Begin of Sidr CSS */
 
@@ -550,7 +550,7 @@ chris@christophertoulee.
    /*position: relative;*/
  /*}*/
 
- /*/* sidr-fonts */*/
+ /*/* sidr-fonts */
 
  /*.sidr-class-fa,*/
  /*.sidr-class-fas,*/
@@ -906,11 +906,6 @@ chris@christophertoulee.
  /*}*/
 
 
-/*.modal .in .modal-dialog {*/
-     /*position: unset;*/
-    /*}*/
-
-
    /* Footer */
 
  footer {
@@ -1024,6 +1019,7 @@ chris@christophertoulee.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
