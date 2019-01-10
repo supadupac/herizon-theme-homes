@@ -173,6 +173,11 @@ chris@christophertoulee.
      /*display: none;*/
    /*}*/
 
+     #nav_background {
+         position: relative;
+         margin-top: 25px;
+     }
+
    #container_fluid_nav {
      display: none;
    }
