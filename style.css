@@ -58,9 +58,9 @@ chris@christophertoulee.
    margin-top: 15px;
  }
 
- /*.nav_bg_page {*/
-   /*display: none;*/
- /*}*/
+ .nav_bg_page {
+   display: none;
+ }
 
  /*a:hover {*/
    /*text-decoration: none !important;*/
