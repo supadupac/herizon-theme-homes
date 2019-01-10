@@ -62,10 +62,10 @@ chris@christophertoulee.
    display: none;
  }
 
- /*a:hover {*/
-   /*text-decoration: none !important;*/
+ a:hover {
+   text-decoration: none !important;
    /*color: red !important;*/
- /*}*/
+ }
 
  .i-logo {
    font-family: 'Pepita';
