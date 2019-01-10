@@ -163,9 +163,9 @@ chris@christophertoulee.
    /*font-size: 45px;*/
    /*color: black;*/
    /*display: inline;*/
-   /*!* top: 34px; *!*/
+   /*/* top: 34px; */*/
    /*margin-left: -10px;*/
-   /*!* position: relative; *!*/
+   /*/* position: relative; */*/
  /*}*/
 
  /*@media only screen and (max-width: 991px){*/
@@ -470,7 +470,7 @@ chris@christophertoulee.
 
  /*.sidr input[type=button]:hover,*/
  /*.sidr input[type=submit]:hover {*/
-   /*!* background: rgba(255, 255, 255, 0.9); *!*/
+   /*/* background: rgba(255, 255, 255, 0.9); */*/
  /*}*/
 
  /*.sidr-class-nav__bar__footer {*/
@@ -550,7 +550,7 @@ chris@christophertoulee.
    /*position: relative;*/
  /*}*/
 
- /*!* sidr-fonts *!*/
+ /*/* sidr-fonts */*/
 
  /*.sidr-class-fa,*/
  /*.sidr-class-fas,*/
@@ -735,8 +735,8 @@ chris@christophertoulee.
  /*.sidr-class-fa-inverse {*/
    /*color: #fff; }*/
 
- /*!* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen*/
- /*readers do not read off random characters that represent icons *!*/
+ /*/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen*/
+ /*readers do not read off random characters that represent icons */*/
 
  /*.sidr-class-fa-window-close:before {*/
    /*content: "\f410"; }*/
@@ -895,7 +895,7 @@ chris@christophertoulee.
  /*.contact-us-form {*/
    /*margin: 20px 0px;*/
    /*padding: 10px 0px;*/
-   /*!* background-color: #E9E9E9; *!*/
+   /*/* background-color: #E9E9E9; */*/
    /*border-radius: 5px;*/
    /*color: black;*/
    /*font-family: "Open Sans";*/
@@ -907,99 +907,98 @@ chris@christophertoulee.
 
    /* Footer */
 
- /*footer {*/
-   /*background: #272727;*/
-   /*!* height: 300px; *!*/
-   /*background: #272727;*/
-   /*background: linear-gradient(#585858, #272727);*/
-   /*color: white;*/
-   /*font-family: "Open Sans";*/
- /*}*/
+ footer {
+   background: #272727;
+   /* height: 300px; */
+   background: #272727;
+   background: linear-gradient(#585858, #272727);
+   color: white;
+   font-family: "Open Sans";
+ }
 
- /*.footer__logo {*/
-   /*font-family: Times;*/
-   /*font-size: 40px !important;*/
-   /*color: white !important;*/
- /*}*/
+ .footer__logo {
+   font-family: Times;
+   font-size: 40px !important;
+   color: white !important;
+ }
 
- /*.footer__realty-logo {*/
-   /*font-family: 'Kunstler Script';*/
-   /*font-size: 45px;*/
-   /*color: white;*/
-   /*display: inline;*/
-   /*position: relative;*/
-   /*margin-left: -90px;*/
-   /*top: 35px;*/
- /*}*/
+ .footer__realty-logo {
+   font-family: 'Kunstler Script';
+   font-size: 45px;
+   color: white;
+   display: inline;
+   position: relative;
+   margin-left: -90px;
+   top: 35px;
+ }
 
- /*a:hover.footer__logo {*/
-   /*color: white !important;*/
-   /*text-decoration: none;*/
- /*}*/
+ a:hover.footer__logo {
+   color: white !important;
+   text-decoration: none;
+ }
 
- /*.footer__address {*/
-   /*font-size: .90em;*/
-   /*padding-top: 10px;*/
-   /*padding-left: 10px;*/
-   /*line-height: 2.0;*/
-   /*display: inline-block;*/
- /*}*/
+ .footer__address {
+   font-size: .90em;
+   padding-top: 10px;
+   padding-left: 10px;
+   line-height: 2.0;
+   display: inline-block;
+ }
 
 
- /*.footer__links {*/
-   /*padding-top: 40px;*/
-   /*margin-left: 0px;*/
- /*}*/
+ .footer__links {
+   padding-top: 40px;
+   margin-left: 0px;
+ }
 
- /*.footer__links a {*/
-   /*color: white;*/
- /*}*/
+ .footer__links a {
+   color: white;
+ }
 
- /*.footer__links a:hover {*/
-   /*color: #717171 !important;*/
- /*}*/
+ .footer__links a:hover {
+   color: #717171 !important;
+ }
 
- /*.footer__link__headers {*/
-   /*font-family: "Open Sans";*/
-   /*font-size: 18px;*/
-   /*font-weight: 550;*/
- /*}*/
+ .footer__link__headers {
+   font-family: "Open Sans";
+   font-size: 18px;
+   font-weight: 550;
+ }
 
- /*.footer_resources_media {*/
-   /*text-align: right;*/
- /*}*/
+ .footer_resources_media {
+   text-align: right;
+ }
 
- /*.footer__stay__connected {*/
-   /*padding-top: 40px;*/
-   /*margin-left: 0px;*/
- /*}*/
+ .footer__stay__connected {
+   padding-top: 40px;
+   margin-left: 0px;
+ }
 
- /*.footer__stay__connected a:hover {*/
-   /*color: #717171 !important;*/
- /*}*/
+ .footer__stay__connected a:hover {
+   color: #717171 !important;
+ }
 
- /*.footer__stay__connected a {*/
-   /*color: white;*/
- /*}*/
+ .footer__stay__connected a {
+   color: white;
+ }
 
- /*.footer__stay__connected i {*/
-   /*letter-spacing: 10px;*/
- /*}*/
+ .footer__stay__connected i {
+   letter-spacing: 10px;
+ }
 
- /*.footer__copyright {*/
-   /*font-size: 12px;*/
- /*}*/
+ .footer__copyright {
+   font-size: 12px;
+ }
 
- /*.footer__copyright a {*/
-   /*font-size: 12px;*/
-   /*color: white;*/
- /*}*/
+ .footer__copyright a {
+   font-size: 12px;
+   color: white;
+ }
 
  .bottom-fix {
      background-color: #272727;
      width: 100%;
      position: absolute;
-     /*margin-bottom: 2361px;*/
  }
 
  /* PAGE CSS */
