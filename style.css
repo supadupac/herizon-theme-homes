@@ -906,7 +906,7 @@ chris@christophertoulee.
  /*}*/
 
 
-    .modal-dialog {
+#ihf-main-container.modal-dialog {
         left: auto !important;
     }
 
