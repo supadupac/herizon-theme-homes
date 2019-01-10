@@ -906,8 +906,8 @@ chris@christophertoulee.
  /*}*/
 
 
-.modal-dialog {
-     position: unset !important;
+.modal .in .modal-dialog {
+     position: unset;
     }
 
 
