@@ -61,28 +61,6 @@
           <!-- Grid column -->
 
 
-<!--          <div id="footer__resources-show" class="col-md-6 footer__links footer_resources_media">-->
-<!--            <!-- Links -->-->
-<!--            <h5 class="footer__link__headers">Resources</h5>-->
-<!--            <ul class="list-unstyled">-->
-<!--              <li>-->
-<!--                <a id="responsive-footer-menu-button" href="#sidr-main">Find Properties</a>-->
-<!--              </li>-->
-<!--              <li>-->
-<!--                <a href="/resources/">Forms</a>-->
-<!--              </li>-->
-<!--              <li>-->
-<!--                <a href="/privacy/">Privacy</a>-->
-<!--              </li>-->
-<!--              <li>-->
-<!--                <a href="/wp-admin/">Log In</a>-->
-<!--              </li>-->
-<!--              <li>-->
-<!--                <a href="/email/">E-mail</a>-->
-<!--              </li>-->
-<!--            </ul>-->
-<!--          </div>-->
-
     </div> <!-- end of row -->
   </div>
 
@@ -98,12 +76,6 @@
     </div>
 </footer>
 
-<!--  <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>-->
-<!--  <script src="https://cdn.jsdelivr.net/jquery.sidr/2.2.1/jquery.sidr.min.js"></script>-->
-  <!-- <script src="js/script.js"></script> -->
-  <!-- Required for Bootstrap JS. Using full Jquery instead of Slim -->
-<!--  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>-->
-<!--  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>-->
 
     <?php wp_footer(); ?>
 
