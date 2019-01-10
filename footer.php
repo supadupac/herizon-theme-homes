@@ -88,10 +88,10 @@
   </div>
 
   <!-- Copyright -->
-  <div class="text-center footer__copyright py-3"><p>© 2018 Copyright Herizon Realty, Inc.
+  <div class="text-center footer__copyright py-3">© 2018 Copyright Herizon Realty, Inc.
     All rights reserved. Equal Housing Opportunity<br>
     Herizon Realty | Real Estate, Mortgage and Title experts in Minnesota.<br>
-    By searching you agree to the end user license agreement.</p>
+    By searching you agree to the end user license agreement.
   </div>
 
     <div class="container-fluid bottom-fix">
